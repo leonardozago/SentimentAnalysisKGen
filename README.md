@@ -7,6 +7,6 @@ O objetivo do experimento é avaliar a eficácia do modelo de grafo de conhecime
 
 
 
-Referências\n
-[1] Rossanez, A., dos Reis, J.C., Torres, R.d.S. et al. KGen: a knowledge graph generator from biomedical scientific literature. BMC Med Inform Decis Mak 20 (Suppl 4), 314 (2020). https://doi.org/10.1186/s12911-020-01341-5\n
+Referências  
+[1] Rossanez, A., dos Reis, J.C., Torres, R.d.S. et al. KGen: a knowledge graph generator from biomedical scientific literature. BMC Med Inform Decis Mak 20 (Suppl 4), 314 (2020). https://doi.org/10.1186/s12911-020-01341-5  
 [2] ZHANG, D. et al. Attributed Network Embedding via Subspace Discovery. arXiv, 2019. Disponível em: https://arxiv.org/abs/1901.04095.
